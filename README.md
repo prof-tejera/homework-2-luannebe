@@ -2,6 +2,11 @@
 
 This assignment is intented to help you set up your development environment for React. You will create a simple React App and deploy using one of the methods covered in lecture.
 
+## My Solution
+- URL to live application: https://luannebe.github.io/sample-react
+- How did you deploy it? _Github Pages according Nico's instructions in Lecture #2_
+- What code editor are you using? _Sublime Text_
+
 ## Step 1
 - Install `npx` following the instructions here: https://www.npmjs.com/package/npx
 - run `npx create-react-app my-first-app` to create the React application
@@ -40,7 +45,7 @@ Deploy the application using one of the methods covered in class: Github Pages, 
 
 ## Submitting
 Edit this file (README.md) and complete the following:
-
+** See "My Solution" above **
 - URL to live application: 
 - How did you deploy it?
 - What code editor are you using?
